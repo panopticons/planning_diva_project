@@ -1,5 +1,5 @@
 import styles from '../app/page.module.css'
-import MiniMenu from '@/components/mini_menu'
+import MiniMenu from '@/components/MiniMenu'
 
 export default function Home() {
   
