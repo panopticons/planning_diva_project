@@ -4,7 +4,31 @@
   justify-content: space-between;
   align-items: center;
   padding: 6rem;
-  min-height: 100vh;
+  min-height: 50vh;
+}
+
+.MiniMenu {
+  padding: 50pt;
+  border-style: double;
+  border-color: blue;
+  border-radius: 10pt;
+  border-width: 10pt;
+  background-color: cyan;
+}
+
+.MiniMenu h1, .MiniMenu h2 {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}  
+
+.MiniMenu button {
+  position: relative;
+  background-color: blue;
+  color: white;
+  border-radius: 5pt;
+}
+
+.MiniMenu input {
+  position: relative;
 }
 
 .description {
